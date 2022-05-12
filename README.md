@@ -7,24 +7,24 @@ list. Typically, spam is sent for commercial purposes.It undermines the usabilit
 response.Involves sending messages by email to numerous recipients at the same time
 
 ### Purpose of Spam?
-Advertisements
-Pyramid schemes (Multi-Level Marketing)
-Giveaways
-Chain letters
-Political email
-Stock market adv
+Advertisements,
+Pyramid schemes (Multi-Level Marketing),
+Giveaways,
+Chain letters,
+Political email,
+Stock market adv.
 
 ### Problem Statement:
 Spam is a problem because the cost is forced onto us, the recipient. 
 Junk mails waste storage and transmission bandwidth.
 With a tiny investment, a spammer can send over 100,000 bulk emails per hour.
-It contains malware, such as ransom
+It contains malware, such as ransom.
 
 ### Scope of the project :
-It provides sensitivity to the client and adapts well to the future spam techniques
-It considers a complete message instead of single words with respect to its organization
-It increases security and control
-It reduces IT Administration costs.  It also reduce Network Resource
+It provides sensitivity to the client and adapts well to the future spam techniques.
+It considers a complete message instead of single words with respect to its organization.
+It increases security and control.
+It reduces IT Administration costs.It also reduce Network Resource.
 
 ### Goal:
 The goal of the project is to design and develop a spam detection system for emails by using
